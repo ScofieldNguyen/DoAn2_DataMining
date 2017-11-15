@@ -115,5 +115,5 @@ Mở qua tab classify.Chọn function là SMO, cross-validation dùng số k-fol
 ![](ScreenShot/Screen%20Shot%202017-11-15%20at%2011.15.21%20PM.png)
 ![](ScreenShot/Screen%20Shot%202017-11-15%20at%2011.14.31%20PM.png)
 ![](ScreenShot/Screen%20Shot%202017-11-15%20at%2011.25.25%20PM.png)
-![](ScreenShot/Screen Shot 2017-11-15 at 11.26.26 PM.png)
+![](ScreenShot/Screen%20Shot%202017-11-15%20at%2011.26.26%20PM.png)
 Độ chính xác của thuật toán trên bộ dữ liệu này là 74,2857%
