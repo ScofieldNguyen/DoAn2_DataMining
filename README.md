@@ -107,13 +107,13 @@ Tăng k lên tiếp thì độ chính xác lại giảm. Vì khi xét quá nhi�
 
 ### 3. Dùng Weka chạy thuật toán SVM
 Mở file train.csv có 65% dữ liệu để trainning
-![](/Users/Mac/Desktop/Screen Shot 2017-11-15 at 11.12.42 PM.png)
-![](/Users/Mac/Desktop/Screen Shot 2017-11-15 at 11.13.08 PM.png)
+![](ScreenShot/Screen Shot 2017-11-15 at 11.12.42 PM.png)
+![](ScreenShot/Screen Shot 2017-11-15 at 11.13.08 PM.png)
 Mở qua tab classify.Chọn function là SMO, cross-validation dùng số k-fold là 10. Ta chạy trainning dữ liệu.
-![](/Users/Mac/Desktop/Screen Shot 2017-11-15 at 11.13.56 PM.png)
+![](ScreenShot/Screen Shot 2017-11-15 at 11.13.56 PM.png)
 Được độ chính xác 83,0769%. Sau đó chọn supplied test set
-![](/Users/Mac/Desktop/Screen Shot 2017-11-15 at 11.15.21 PM.png)
-![](/Users/Mac/Desktop/Screen Shot 2017-11-15 at 11.14.31 PM.png)
-![](/Users/Mac/Desktop/Screen Shot 2017-11-15 at 11.25.25 PM.png)
-![](/Users/Mac/Desktop/Screen Shot 2017-11-15 at 11.26.26 PM.png)
+![](ScreenShot/Screen Shot 2017-11-15 at 11.15.21 PM.png)
+![](ScreenShot/Screen Shot 2017-11-15 at 11.14.31 PM.png)
+![](ScreenShot/Screen Shot 2017-11-15 at 11.25.25 PM.png)
+![](ScreenShot/Screen Shot 2017-11-15 at 11.26.26 PM.png)
 Độ chính xác của thuật toán trên bộ dữ liệu này là 74,2857%
