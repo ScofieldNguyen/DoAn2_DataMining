@@ -9,7 +9,6 @@ Tên: Nguyễn Vĩnh Tiến
 
 Link dataset: [Prostate_Cancer](https://discuss.analyticsvidhya.com/uploads/analyticsvidhya/original/1X/e70a1105cd36e53cc13b6075aaa3175d36610d94.csv)
 
-
 Dữ liệu về 100 bệnh nhân ung thư, mỗi bệnh nhân là 1 dòng dữ liệu. Gồm có các thuộc tính:
 
 1. id : Số thứ tự (không quan tâm đến thuộc tính này do không có nhiều ý nghĩa)
